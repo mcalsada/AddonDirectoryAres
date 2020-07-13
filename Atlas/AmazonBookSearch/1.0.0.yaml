@@ -1,0 +1,9 @@
+Id: Atlas.AmazonBookSearch
+Version: 1.1.0                                            
+Name: Amazon Book Searches
+Publisher: Atlas Systems
+Description: Performs an Amazon search for the Title for items.
+Tags: amazon
+MinVersion: 5.0.0.0
+AddonType: Client
+DownloadUrl: https://atlas-sys.atlassian.net/wiki/download/attachments/3149463/AtlasAmazonSearch.zip?version=1&modificationDate=1389286068250&cacheVersion=1&api=v2    
