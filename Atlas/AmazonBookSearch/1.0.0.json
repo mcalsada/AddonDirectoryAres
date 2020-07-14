@@ -9,6 +9,9 @@
     "AddonType": "Client",
     "DownloadUrl": "https://atlas-sys.atlassian.net/wiki/download/attachments/3149463/AtlasAmazonSearch.zip?version=1&modificationDate=1389286068250&cacheVersion=1&api=v2",
     "Dependencies": [
-       "Atlas.Helpers"
+        {
+            "Id": "Atlas.Helpers",
+            "Version": "1.1.0"
+        }       
     ]
  }
