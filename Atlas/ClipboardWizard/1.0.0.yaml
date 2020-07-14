@@ -1,8 +1,0 @@
-Id: Atlas.ClipboardWizard
-Version: 1.0.0                                            
-Name: Clipboard Wizard
-Publisher: Atlas Systems
-Description: Copies information about an item into the windows clipboard.
-MinVersion: 5.0.0.0
-AddonType: Client
-DownloadUrl: https://atlas-sys.atlassian.net/wiki/download/attachments/3149549/ClipboardWizard.zip?version=1&modificationDate=1457523044623&cacheVersion=1&api=v2
