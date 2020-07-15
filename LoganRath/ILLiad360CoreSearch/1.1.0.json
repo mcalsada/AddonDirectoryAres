@@ -1,0 +1,10 @@
+{
+    "Id": "LoganRath.ILLiad360CoreSearch",
+    "Version": "1.1.0",
+    "Name": "360Core Search",
+    "Publisher": "LoganRath",
+    "Description": "Does a full 360 Core search for a journal based on title or ISSN.",
+    "MinVersion": "1.1.0.0",
+    "AddonType": "Client",
+    "DownloadUrl": "https://atlas-sys.atlassian.net/wiki/download/attachments/3149579/360Core.zip?version=2&modificationDate=1438275592590&cacheVersion=1&api=v2"
+ }
