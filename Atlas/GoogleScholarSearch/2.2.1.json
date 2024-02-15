@@ -1,6 +1,6 @@
 {
     "Id": "Atlas.GoogleScholarSearch",
-    "Version": "1.1.0",
+    "Version": "2.2.1",
     "Name": "Google Scholar Search",
     "Publisher": "Atlas Systems",
     "Description": "The Google Search Addon performs a generic Google search for the LoanTitle for loans and the PhotoArticleTitle for articles.",
