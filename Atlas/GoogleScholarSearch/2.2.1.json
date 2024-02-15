@@ -1,0 +1,17 @@
+{
+    "Id": "Atlas.GoogleScholarSearch",
+    "Version": "1.1.0",
+    "Name": "Google Scholar Search",
+    "Publisher": "Atlas Systems",
+    "Description": "The Google Search Addon performs a generic Google search for the LoanTitle for loans and the PhotoArticleTitle for articles.",
+    "Tags": "google",
+    "MinVersion": "5.0.0.0",
+    "AddonType": "Client",
+    "DownloadUrl": "https://atlas-sys.atlassian.net/wiki/download/attachments/3149506/GoogleSearch_v2.2.1.zip?version=1&modificationDate=1686746092924&cacheVersion=1&api=v2",
+    "Dependencies": [
+        {
+            "Id": "Atlas.Helpers",
+            "Version": "1.1.0"
+        }       
+    ]
+ }
